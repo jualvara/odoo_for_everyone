@@ -274,7 +274,7 @@ Este proyecto es **Open Source** bajo licencia MIT. Siéntete libre de usarlo, m
 
 - **GitHub Issues:** Para reportar bugs o sugerir features
 - **Discussions:** Para preguntas generales y showcase de proyectos
-- **Email:** [tu-email@ejemplo.com]
+- **Email:** [jualvara@ucm.es]
 
 ---
 
