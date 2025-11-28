@@ -7,7 +7,7 @@ export default defineConfig(({ mode }) => {
     
     // GitHub Pages base path: use repo name or '/' for custom domain
     // Change 'odoomastery' to your repository name
-    const base = mode === 'production' ? '/odoomastery/' : '/';
+    const base = mode === 'production' ? '/odoo_for_everyone/' : '/';
     
     return {
       base,
