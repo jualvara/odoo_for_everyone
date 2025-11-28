@@ -4,7 +4,7 @@
 
 **Plataforma de aprendizaje interactivo impulsada por IA para dominar el desarrollo en Odoo**
 
-[![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-brightgreen)](https://github.com/yourusername/odoomastery)
+[![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-brightgreen)](https://github.com/jualvara/odoo_for_everyone)
 [![React](https://img.shields.io/badge/React-19.2.0-blue)](https://react.dev/)
 [![Vite](https://img.shields.io/badge/Vite-6.2.0-purple)](https://vitejs.dev/)
 [![Gemini AI](https://img.shields.io/badge/Gemini-AI-orange)](https://ai.google.dev/)
@@ -127,7 +127,7 @@ Tradicionalmente, aprender Odoo requiere:
 
 ### 🌐 Demo en Vivo
 Visita la aplicación desplegada en GitHub Pages:
-**[https://jualvara.github.io/odoomastery](https://jualvara.github.io/odoomastery)**
+**[https://jualvara.github.io/odoo_for_everyone/](https://jualvara.github.io/odoo_for_everyone/)**
 
 ### 💻 Ejecutar Localmente
 
@@ -138,8 +138,8 @@ Visita la aplicación desplegada en GitHub Pages:
 
 1. **Clonar el repositorio**
    ```bash
-   git clone https://github.com/jualvara/odoomastery.git
-cd odoomastery
+   git clone https://github.com/jualvara/odoo_for_everyone.git
+   cd odoo_for_everyone
    ```
 
 2. **Instalar dependencias**
@@ -210,15 +210,15 @@ Este proyecto está pre-configurado para desplegar en GitHub Pages con CI/CD aut
    - *Settings → Pages*
    - Source: **GitHub Actions**
 
-4. **Push a `main` para desplegar**
+4. **Push a `master` para desplegar**
    ```bash
-   git push origin main
+   git push origin master
    ```
    
    El workflow `.github/workflows/deploy.yml` se ejecutará automáticamente.
 
 5. **Accede a tu sitio**
-   - URL: `https://tuusuario.github.io/odoomastery`
+   - URL: `https://tuusuario.github.io/odoo_for_everyone`
 
 ---
 
